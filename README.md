@@ -1,2 +1,0 @@
-# javatest
-java practice test
